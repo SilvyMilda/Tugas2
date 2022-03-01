@@ -120,18 +120,6 @@ section h3 {
 	font-size: 20px;
 	margin:0 auto;
 }
-.icon2 {
-	width:15px;
-	height:15px;
-	border:1px solid;
-	border-radius: 50%;
-	text-align: center;
-	line-height: 70px;
-	font-size: 20px;
-	margin:0 auto;
-	color: rgb(66, 59, 59) ;
-	background: rgb(66, 59, 59) ;
-}
 .box .col-4 h4 {
 	margin:20px 0;
 }
